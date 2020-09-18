@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Predicting Gold Price Using Univariate Time Series Modeling"
-date:       2020-09-18 21:50:47 +0000
+date:       2020-09-18 17:50:48 -0400
 permalink:  predicting_gold_price_using_univariate_time_series_modeling
 ---
 
