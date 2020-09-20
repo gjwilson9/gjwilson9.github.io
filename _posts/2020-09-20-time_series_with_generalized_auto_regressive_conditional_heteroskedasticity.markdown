@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Time Series with Generalized Auto Regressive Conditional Heteroskedasticity"
-date:       2020-09-20 19:17:50 +0000
+date:       2020-09-20 15:17:52 -0400
 permalink:  time_series_with_generalized_auto_regressive_conditional_heteroskedasticity
 ---
 
